@@ -1,11 +1,17 @@
 # Chrome debugging
+  https://developers.google.com/web/tools/chrome-devtools/memory-problems/
+
+* Consommation Memoire
+** Plus d'outils -- Gestionnaire des taches clic-droits - Memoire Javascript
+** Memory leaks  
+  Developper tools -- Performance -- o -- Stop -- memory
 
 # NEO4J Profiling
 ## Execution plan
   https://stackoverflow.com/questions/20628663/is-there-a-way-to-show-cypher-execution-plan
 
 ### PROFILE / EXPLAIN
-    https://neo4j.com/docs/cypher-manual/3.5/query-tuning/how-do-i-profile-a-query/
+  https://neo4j.com/docs/cypher-manual/3.5/query-tuning/how-do-i-profile-a-query/
 
 # Plan d'actions
 ## Scénarios
