@@ -4,7 +4,7 @@
 * Consommation Memoire
 ** Plus d'outils -- Gestionnaire des taches clic-droits - Memoire Javascript
 ** Memory leaks  
-  Developper tools -- Performance -- o -- Stop -- memory
+***  Developper tools -- Performance -- o -- Stop -- memory
 
 # NEO4J Profiling
 ## Execution plan
