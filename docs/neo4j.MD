@@ -1,13 +1,16 @@
 # Chrome debugging
   https://developers.google.com/web/tools/chrome-devtools/memory-problems/
 
-* Consommation Memoire
-** Plus d'outils -- Gestionnaire des taches clic-droits - Memoire Javascript
-** Memory leaks  
-*** Developper tools -- Performance -- o -- Stop -- memory
-*** Memory take snapshot
+1- Consommation Memoire
+   * Plus d'outils -- Gestionnaire des taches clic-droits - Memoire Javascript
+2- Memory leaks  
+   * Developper tools -- Performance -- o -- Stop -- memory
+   * Memory take snapshot
 
 # NEO4J Profiling
+## Gestion des logs
+cf. SIMAT
+
 ## Execution plan
   https://stackoverflow.com/questions/20628663/is-there-a-way-to-show-cypher-execution-plan
 
