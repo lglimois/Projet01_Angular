@@ -3,6 +3,7 @@
 
 1- Consommation Memoire
    * Plus d'outils -- Gestionnaire des taches clic-droits - Memoire Javascript
+   
 2- Memory leaks  
    * Developper tools -- Performance -- o -- Stop -- memory
    * Memory take snapshot
